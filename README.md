@@ -15,8 +15,7 @@ git clone https://github.com/abramhindle/CMPUT404-assignment-css-hell.git
 Modifications
 =================
 
-For these files, I change the font size and the font to Times New Roman generally. I add the underline to the top header(very first line in this html), and I make the information of the book and contents to the center of the page. Also, I add the border to the title of the book and make the authr, chapters to be italic and also put underline. Moreover, for the cover image of the book, I add a circle border to the picture, and use 
-the filter to blur and make the image become to be grayscale.
+For these files, I change the background color, font size and the font to Times New Roman generally. I add the underline to the top header(very first line in html), and I move the information of the book and contents to the center of the page. This part of some html files were put into one block, while I broke them into small pieces in order to set different looks. Also, I add the border to the title of the book and make the authr, chapters to be italic and also put underline. Moreover, for the cover image of the book, I add a circle border to the picture, and use the filter to blur and make the image become to be grayscale.
 
 License/Copyright
 =================
