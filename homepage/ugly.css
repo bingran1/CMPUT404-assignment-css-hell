@@ -1,0 +1,85 @@
+body {
+    margin: 0;
+    background-image: url("images/ugly.jpg");
+    
+}
+
+
+.top {
+    
+    color: rgb(250, 87, 11);
+    padding: 0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+}
+
+.top h1{
+    border-style: outset;
+    border-width: 5px 5px 5px 5px;
+    border-color:rgb(255, 17, 0);
+    font-style: italic;
+
+}
+
+.sidebar { 
+    overflow: hidden; 
+    
+}
+
+.sidebar a{
+    font-family: Impact, Charcoal, sans-serif;
+    color: rgb(212, 4, 253);
+    padding:10px;
+	float:left;
+    text-align: center;
+	display: block;
+    font-size: 27px;
+}
+
+.fig {
+    
+    float:left;
+    margin-top: 2em;
+    margin-left: 1em;
+    margin-right: auto;
+    border-color:rgb(255, 251, 0);
+    border-style: solid;
+    border-radius: 15%;
+    border-width: 17px;
+    width: 50%
+}
+
+img {
+    margin-top: 3em;
+    margin-bottom: 2em; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+}
+
+.tags {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    color:rgb(83, 161, 5);
+    font-size: 27px;
+    font-weight: bold;
+    float: right;
+    margin-top: 3em;
+    margin-bottom: 3em;
+    margin-right: 1em;
+    padding-top: 6%;
+    padding-right: 25%;
+    
+}
+
+
+
+.intro{
+    font-size: 20px ;
+    color:rgb(255, 0, 157);
+    font-size: 19px;
+    float: left;
+    margin-top: 2em;
+    margin-left: 1em;
+}
